@@ -8,3 +8,6 @@ pip freeze > requirements.txt
 
 requirements.txt をもとに install
 pip install -r requirements.txt
+
+デプロイ先(仮)
+https://burupuro-character.azurewebsites.net/
